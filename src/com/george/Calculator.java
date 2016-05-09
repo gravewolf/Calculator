@@ -1,7 +1,7 @@
 package com.george;
 
 public class Calculator {
-    private static int result=0;    //静态变量，用于存储运行结果
+    private static int result=0;    
 
     public void add(int n)
     {
@@ -10,7 +10,7 @@ public class Calculator {
     
     public void substract(int n)
     {
-        result=result-1;        //Bug：正确的应该是result=result-n;
+        result=result-1;       
     }
     
     public void multiply(int n)
@@ -35,7 +35,7 @@ public class Calculator {
     
     public void clear()
     {
-        result=0;  //将结果清零
+        result=0; 
     }
     
     public int getResult()

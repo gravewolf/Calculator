@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="303-24" name="com.george.CalculatorTest" tests="8" time="0.04" timestamp="2016-05-09T11:15:48">
+<testsuite errors="0" failures="0" hostname="303-24" name="com.george.CalculatorTest" tests="8" time="0.033" timestamp="2016-05-09T11:32:58">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="lib.dir" value="lib" />
@@ -53,7 +53,7 @@
     <property name="java.vendor.url" value="http://java.oracle.com/" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
-    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1462792547989 -Declipse.connect.port=2389 -Declipse.pdebuild.home=/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/./ -Declipse.pdebuild.scripts=/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/scripts/ -Declipse.pdebuild.templates=/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/templates/ -Dant.home=C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile C:\Users\Administrator\workspace\Calculator\build.xml" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1462793577805 -Declipse.connect.port=2994 -Declipse.pdebuild.home=/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/./ -Declipse.pdebuild.scripts=/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/scripts/ -Declipse.pdebuild.templates=/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/templates/ -Dant.home=C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile C:\Users\Administrator\workspace\Calculator\build.xml" />
     <property name="java.class.path" value="C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-antlr.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-bcel.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-bsf.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-log4j.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-oro.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-regexp.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-resolver.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-xalan2.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-commons-logging.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-commons-net.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-jai.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-javamail.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-jdepend.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-jmf.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-jsch.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-junit.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-junit4.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-launcher.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-netrexx.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-swing.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-testutil.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant.jar;C:\eclipse\configuration\org.eclipse.osgi\bundles\56\1\.cp\lib\antdebug.jar;C:\eclipse\configuration\org.eclipse.osgi\bundles\56\1\.cp\lib\remote.jar;C:\eclipse\configuration\org.eclipse.osgi\bundles\57\1\.cp\lib\remoteAnt.jar;C:\Program Files\Java\jdk1.7.0_45\lib\tools.jar;C:\eclipse\plugins\org.eclipse.swt.win32.win32.x86_3.100.1.v4234e.jar" />
     <property name="ant.version" value="Apache Ant(TM) version 1.8.3 compiled on February 26 2012" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
@@ -77,14 +77,14 @@
     <property name="java.specification.version" value="1.7" />
     <property name="ant.project.invoked-targets" value="test" />
   </properties>
-  <testcase classname="com.george.CalculatorTest" name="testSquareRoot" time="0.001" />
-  <testcase classname="com.george.CalculatorTest" name="testSubstract" time="0.0" />
+  <testcase classname="com.george.CalculatorTest" name="testSubstract" time="0.001" />
   <testcase classname="com.george.CalculatorTest" name="testMultiply" time="0.0" />
   <testcase classname="com.george.CalculatorTest" name="testDivide" time="0.0" />
   <testcase classname="com.george.CalculatorTest" name="testSquare" time="0.0" />
   <testcase classname="com.george.CalculatorTest" name="testClear" time="0.0" />
   <testcase classname="com.george.CalculatorTest" name="testGetResult" time="0.0" />
   <testcase classname="com.george.CalculatorTest" name="testAdd" time="0.0" />
+  <testcase classname="com.george.CalculatorTest" name="testSquareRoot" time="0.0" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
