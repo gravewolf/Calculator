@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="303-24" name="com.george.CalculatorTest" tests="8" time="0.04" timestamp="2016-05-09T11:15:48">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="lib.dir" value="lib" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/templates/" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="run.srcpath" value="src" />
+    <property name="os.name" value="Windows 7" />
+    <property name="ant.file.project" value="C:\Users\Administrator\workspace\Calculator\build.xml" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_45\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_45\jre\classes" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730" />
+    <property name="java.runtime.version" value="1.7.0_45-b18" />
+    <property name="run.classpath" value="bin" />
+    <property name="test.report" value="testReport" />
+    <property name="user.name" value="Administrator" />
+    <property name="user.language" value="zh" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_45\jre\bin" />
+    <property name="ant.project.default-target" value="test" />
+    <property name="ant.project.name" value="project" />
+    <property name="java.version" value="1.7.0_45" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="32" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_45\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+    <property name="sun.jnu.encoding" value="GBK" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="test.xml" value="xml" />
+    <property name="java.class.version" value="51.0" />
+    <property name="user.country" value="CN" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_45\jre" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="ant.file" value="C:\Users\Administrator\workspace\Calculator\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="test.srcpath" value="test" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="24.45-b08" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/scripts/" />
+    <property name="user.home" value="C:\Users\Administrator" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.library.path" value="C:\eclipse;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.7.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.7.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.7.0_45/bin/../jre/lib/i386;C:\Program Files\IBM\SPSS\Modeler\14\bin\;C:\Program Files\SPSS Clementine\11.1\bin\;C:\Program Files\Java\jdk1.7.0_45\bin;C:\Program Files\Java\jdk1.7.0_45\jre\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\HashiCorp\Vagrant\bin;C:\eclipse;;.;C:\eclipse\configuration\org.eclipse.osgi\bundles\460\1\.cp" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1462792547989 -Declipse.connect.port=2389 -Declipse.pdebuild.home=/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/./ -Declipse.pdebuild.scripts=/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/scripts/ -Declipse.pdebuild.templates=/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/templates/ -Dant.home=C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile C:\Users\Administrator\workspace\Calculator\build.xml" />
+    <property name="java.class.path" value="C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-antlr.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-bcel.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-bsf.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-log4j.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-oro.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-regexp.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-resolver.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-apache-xalan2.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-commons-logging.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-commons-net.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-jai.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-javamail.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-jdepend.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-jmf.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-jsch.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-junit.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-junit4.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-launcher.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-netrexx.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-swing.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-testutil.jar;C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant.jar;C:\eclipse\configuration\org.eclipse.osgi\bundles\56\1\.cp\lib\antdebug.jar;C:\eclipse\configuration\org.eclipse.osgi\bundles\56\1\.cp\lib\remote.jar;C:\eclipse\configuration\org.eclipse.osgi\bundles\57\1\.cp\lib\remoteAnt.jar;C:\Program Files\Java\jdk1.7.0_45\lib\tools.jar;C:\eclipse\plugins\org.eclipse.swt.win32.win32.x86_3.100.1.v4234e.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.3 compiled on February 26 2012" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="ant.file.type.project" value="file" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="eclipse.pdebuild.home" value="/C:/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/./" />
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="x86" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\Administrator\workspace\Calculator" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+    <property name="basedir" value="C:\Users\Administrator\workspace\Calculator" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="C:\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant.jar" />
+    <property name="file.encoding" value="GBK" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="ant.project.invoked-targets" value="test" />
+  </properties>
+  <testcase classname="com.george.CalculatorTest" name="testSquareRoot" time="0.001" />
+  <testcase classname="com.george.CalculatorTest" name="testSubstract" time="0.0" />
+  <testcase classname="com.george.CalculatorTest" name="testMultiply" time="0.0" />
+  <testcase classname="com.george.CalculatorTest" name="testDivide" time="0.0" />
+  <testcase classname="com.george.CalculatorTest" name="testSquare" time="0.0" />
+  <testcase classname="com.george.CalculatorTest" name="testClear" time="0.0" />
+  <testcase classname="com.george.CalculatorTest" name="testGetResult" time="0.0" />
+  <testcase classname="com.george.CalculatorTest" name="testAdd" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
